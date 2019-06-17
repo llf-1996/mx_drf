@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="tencent_mxshop">
+    <serverData>
+      <paths name="tencent_mxshop">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/ubuntu/django_project/MxShop" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ubuntu@148.70.214.104:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_474" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
